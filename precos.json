@@ -1,70 +1,70 @@
 {
   "rm_angio": {
-    "particular": { "normal": 1275, "especial": 1275 },
-    "particular_segundo": { "normal": 1020, "especial": 1020 },
-    "partconv": { "normal": 1147.5, "especial": 1147.5 },
-    "partconv_segundo": { "normal": 918, "especial": 918 },
+    "particular": { "normal": 1377, "especial": 1377 },
+    "particular_segundo": { "normal": 1101.6, "especial": 1101.6 },
+    "partconv": { "normal": 1240, "especial": 1240 },
+    "partconv_segundo": { "normal": 992, "especial": 992 },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true
   },
   "rm_avc": {
-    "particular": { "normal": 2062, "especial": 2062 },
-    "particular_segundo": { "normal": 1649.6, "especial": 1649.6 },
-    "partconv": { "normal": 1855.8, "especial": 1855.8 },
-    "partconv_segundo": { "normal": 1484.64, "especial": 1484.64 },
+    "particular": { "normal": 2228, "especial": 2228 },
+    "particular_segundo": { "normal": 1782.4, "especial": 1782.4 },
+    "partconv": { "normal": 2006, "especial": 2006 },
+    "partconv_segundo": { "normal": 1604.8, "especial": 1604.8 },
     "incluiContraste": true
   },
   "rm_mag": {
-    "particular": { "normal": 977, "especial": 782 },
-    "particular_segundo": { "normal": 781.6, "especial": 625.6 },
-    "partconv": { "normal": 879.3, "especial": 782 },
-    "partconv_segundo": { "normal": 703.44, "especial": 625.6 },
+    "particular": { "normal": 1056, "especial": 845 },
+    "particular_segundo": { "normal": 844.8, "especial": 676 },
+    "partconv": { "normal": 951, "especial": 845 },
+    "partconv_segundo": { "normal": 760.8, "especial": 676 },
     "hasEspecial": true,
     "igualParticular": true
   },
   "rm_cont": {
-    "particular": { "normal": null, "especial": 1070 },
-    "particular_segundo": { "normal": null, "especial": 856 },
-    "partconv": { "normal": null, "especial": 1070 },
-    "partconv_segundo": { "normal": null, "especial": 856 },
+    "particular": { "normal": null, "especial": 1295 },
+    "particular_segundo": { "normal": null, "especial": 1036 },
+    "partconv": { "normal": null, "especial": 1295 },
+    "partconv_segundo": { "normal": null, "especial": 1036 },
     "hasEspecial": true,
     "onlyEspecial": true,
     "igualParticular": true,
     "incluiContraste": true
   },
   "tc_ang": {
-    "particular": { "normal": 1118, "especial": 1118 },
-    "particular_segundo": { "normal": 894.4, "especial": 894.4 },
-    "partconv": { "normal": 1006.2, "especial": 1006.2 },
-    "partconv_segundo": { "normal": 804.96, "especial": 804.96 },
+    "particular": { "normal": 1208, "especial": 1208 },
+    "particular_segundo": { "normal": 966.4, "especial": 966.4 },
+    "partconv": { "normal": 1088, "especial": 1088 },
+    "partconv_segundo": { "normal": 870.4, "especial": 870.4 },
     "incluiContraste": true
   },
   "tc_cor": {
-    "particular": { "normal": 1118, "especial": 1118 },
-    "particular_segundo": { "normal": 894.4, "especial": 894.4 },
-    "partconv": { "normal": 1006.2, "especial": 1006.2 },
-    "partconv_segundo": { "normal": 804.96, "especial": 804.96 },
+    "particular": { "normal": 1208, "especial": 1208 },
+    "particular_segundo": { "normal": 966.4, "especial": 966.4 },
+    "partconv": { "normal": 1088, "especial": 1088 },
+    "partconv_segundo": { "normal": 870.4, "especial": 870.4 },
     "incluiContraste": true
   },
   "tc_avc": {
-    "particular": { "normal": 1554, "especial": 1554 },
-    "particular_segundo": { "normal": 1243.2, "especial": 1243.2 },
-    "partconv": { "normal": 1398.6, "especial": 1398.6 },
-    "partconv_segundo": { "normal": 1118.88, "especial": 1118.88 },
+    "particular": { "normal": 1679, "especial": 1679 },
+    "particular_segundo": { "normal": 1343.2, "especial": 1343.2 },
+    "partconv": { "normal": 1512, "especial": 1512 },
+    "partconv_segundo": { "normal": 1209.6, "especial": 1209.6 },
     "incluiContraste": true
   },
   "tc_abd": {
-    "particular": { "normal": 738, "especial": 738 },
-    "particular_segundo": { "normal": 590.4, "especial": 590.4 },
-    "partconv": { "normal": 664.2, "especial": 664.2 },
-    "partconv_segundo": { "normal": 531.36, "especial": 531.36 }
+    "particular": { "normal": 798, "especial": 798 },
+    "particular_segundo": { "normal": 638.4, "especial": 638.4 },
+    "partconv": { "normal": 719, "especial": 719 },
+    "partconv_segundo": { "normal": 575.2, "especial": 575.2 }
   },
   "tc_comp": {
-    "particular": { "normal": 521, "especial": 521 },
-    "particular_segundo": { "normal": 416.8, "especial": 416.8 },
-    "partconv": { "normal": 468.9, "especial": 468.9 },
-    "partconv_segundo": { "normal": 375.12, "especial": 375.12 }
+    "particular": { "normal": 657, "especial": 657 },
+    "particular_segundo": { "normal": 525.6, "especial": 525.6 },
+    "partconv": { "normal": 592, "especial": 592 },
+    "partconv_segundo": { "normal": 473.6, "especial": 473.6 }
   },
   "sonoendoscopia": {
     "particular": { "normal": 1206.81, "especial": 1206.81 },
