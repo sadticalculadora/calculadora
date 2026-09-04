@@ -4,373 +4,246 @@
     "name": "TC - Angiotomografia (pacote) COM CONTRASTE",
     "category": "rmtc",
     "particular": {
-      "normal": 1342.0,
-      "especial": 1342.0
+      "normal": 1208.0,
+      "especial": 1208.0
     },
     "particular_segundo": {
-      "normal": 1073.6,
-      "especial": 1073.6
+      "normal": 966.4,
+      "especial": 966.4
     },
     "partconv": {
-      "normal": 1207.8,
-      "especial": 1207.8
+      "normal": 1087.2,
+      "especial": 1087.2
     },
     "partconv_segundo": {
-      "normal": 966.24,
-      "especial": 966.24
+      "normal": 869.76,
+      "especial": 869.76
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem, honorário médico e materiais e medicamentos pertinentes ao contraste. EXCLUSO: Honorário médico do anestesista e materiais e medicamentos do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmentos.",
-    "codeTuss": [
-      "41001400",
-      "41001516",
-      "41001419",
-      "41001176",
-      "41001370",
-      "41001230",
-      "41001508",
-      "41001184",
-      "41001451",
-      "41001397",
-      "41001427",
-      "41001460",
-      "41001494",
-      "41001435",
-      "41001478",
-      "41001389",
-      "41001486",
-      "41001443"
-    ]
+    "codeTuss": null
   },
   "tc_abd": {
     "code": "888000150",
     "name": "TC - Tomografia abdome total (pacote)",
     "category": "rmtc",
     "particular": {
-      "normal": 886.0,
-      "especial": 886.0
+      "normal": 798.0,
+      "especial": 798.0
     },
     "particular_segundo": {
-      "normal": 708.8,
-      "especial": 708.8
+      "normal": 638.4,
+      "especial": 638.4
     },
     "partconv": {
-      "normal": 797.4,
-      "especial": 797.4
+      "normal": 718.2,
+      "especial": 718.2
     },
     "partconv_segundo": {
-      "normal": 637.92,
-      "especial": 637.92
+      "normal": 574.56,
+      "especial": 574.56
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem e honorário médico. EXCLUSO: Materiais e medicamentos de anestesia e contraste e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento; por exemplo, cervical + torácica serão cobrados dois exames.",
-    "codeTuss": [
-      "41001095"
-    ]
+    "codeTuss": null
   },
   "tc_comp": {
     "code": "888000146",
     "name": "TC - Tomografia computadorizada (pacote)",
     "category": "rmtc",
     "particular": {
-      "normal": 730.0,
-      "especial": 730.0
-    },
-    "particular_segundo": {
-      "normal": 584.0,
-      "especial": 584.0
-    },
-    "partconv": {
       "normal": 657.0,
       "especial": 657.0
     },
-    "partconv_segundo": {
+    "particular_segundo": {
       "normal": 525.6,
       "especial": 525.6
+    },
+    "partconv": {
+      "normal": 591.3,
+      "especial": 591.3
+    },
+    "partconv_segundo": {
+      "normal": 473.04,
+      "especial": 473.04
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem e honorário médico. EXCLUSO: Materiais e medicamentos de anestesia e contraste e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento; por exemplo, cervical + torácica serão cobrados dois exames.",
-    "codeTuss": [
-      "41001141",
-      "41001133",
-      "41001052",
-      "41001036",
-      "41001117",
-      "41001362",
-      "41001044",
-      "41001109",
-      "41001079",
-      "41001028",
-      "41001125",
-      "41001060",
-      "41001010",
-      "41001087"
-    ]
+    "codeTuss": null
   },
   "tc_avc": {
     "code": "89101230",
     "name": "TC - Pacote AVC (crânio + angio arterial crânio + angio cervical)",
     "category": "rmtc",
     "particular": {
-      "normal": 1865.0,
-      "especial": 1865.0
+      "normal": 1679.0,
+      "especial": 1679.0
     },
     "particular_segundo": {
-      "normal": 1492.0,
-      "especial": 1492.0
+      "normal": 1343.2,
+      "especial": 1343.2
     },
     "partconv": {
-      "normal": 1678.5,
-      "especial": 1678.5
+      "normal": 1511.1,
+      "especial": 1511.1
     },
     "partconv_segundo": {
-      "normal": 1342.8,
-      "especial": 1342.8
+      "normal": 1208.88,
+      "especial": 1208.88
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem, honorário médico e materiais e medicamentos pertinentes ao contraste. EXCLUSO: Materiais e medicamentos de anestesia e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmentos.",
-    "codeTuss": [
-      "41001370"
-    ]
+    "codeTuss": "41001370"
   },
   "rm_mag": {
     "code": "888000154",
     "name": "RM - Ressonância magnética (sem contraste)",
     "category": "rmtc",
     "particular": {
-      "normal": 1173.0,
-      "especial": 1173.0
+      "normal": 1056.0,
+      "especial": 1056.0
     },
     "particular_segundo": {
-      "normal": 938.4,
-      "especial": 938.4
+      "normal": 844.8,
+      "especial": 844.8
     },
     "partconv": {
-      "normal": 1055.7,
-      "especial": 1055.7
+      "normal": 950.4,
+      "especial": 950.4
     },
     "partconv_segundo": {
-      "normal": 844.56,
-      "especial": 844.56
+      "normal": 760.32,
+      "especial": 760.32
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem e honorário médico. EXCLUSO: Materiais e medicamentos de anestesia e contraste e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento; por exemplo, cervical + torácica serão cobrados dois exames.",
-    "codeTuss": [
-      "41101251",
-      "41101308",
-      "41101219",
-      "41101170",
-      "41101480",
-      "41101022",
-      "41101243",
-      "41101103",
-      "41101464",
-      "41101111",
-      "41101634",
-      "41101260",
-      "41101081",
-      "41101138",
-      "41101456",
-      "41101120",
-      "41101014",
-      "41101065",
-      "41101235",
-      "41101057",
-      "41101642",
-      "41101278",
-      "41101030",
-      "41101197",
-      "41101294",
-      "41101286",
-      "41101090",
-      "41101073",
-      "41101227",
-      "41101154",
-      "41101200",
-      "41101189",
-      "41101316"
-    ]
+    "codeTuss": null
   },
   "rm_cont": {
     "code": "89101228",
     "name": "RM - Ressonância magnética com contraste (pacote)",
     "category": "rmtc",
     "particular": {
-      "normal": 1389.0,
-      "especial": 1389.0
+      "normal": 1295.0,
+      "especial": 1295.0
     },
     "particular_segundo": {
-      "normal": 1111.2,
-      "especial": 1111.2
+      "normal": 1036.0,
+      "especial": 1036.0
     },
     "partconv": {
-      "normal": 1250.1,
-      "especial": 1250.1
+      "normal": 1165.5,
+      "especial": 1165.5
     },
     "partconv_segundo": {
-      "normal": 1000.08,
-      "especial": 1000.08
+      "normal": 932.4,
+      "especial": 932.4
     },
     "hasEspecial": true,
     "onlyEspecial": true,
     "incluiContraste": true,
     "composicao": "OS PACOTES SÃO VÁLIDOS PARA OS REGIMES DE ATENDIMENTO AMBULATÓRIO E EXTERNO. APLICABILIDADE: Agendamentos de segunda a sábado, das 22h às 6h, e domingo e feriado durante todo o dia. INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem, honorário médico e materiais e medicamentos pertinentes ao contraste. EXCLUSO: Materiais e medicamentos de anestesia e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: A cobrança será por segmento.",
-    "codeTuss": [
-      "41101294",
-      "41101189",
-      "41101316",
-      "41101103",
-      "41101120",
-      "41101359",
-      "41101154",
-      "41101014",
-      "41101480",
-      "41101227",
-      "41101308",
-      "41101138",
-      "41101642",
-      "41101251",
-      "41101170",
-      "41101634",
-      "41101260",
-      "41101197",
-      "41101022",
-      "41101073",
-      "41101030",
-      "41101456",
-      "41101278",
-      "41101464",
-      "41101111",
-      "41101235",
-      "41101219",
-      "41101286",
-      "41101090",
-      "41101081",
-      "41101200",
-      "41101243"
-    ]
+    "codeTuss": null
   },
   "rm_angio": {
     "code": "888000164",
     "name": "RM - Angiorressonância (com contraste)",
     "category": "rmtc",
     "particular": {
-      "normal": 1530.0,
-      "especial": 1530.0
-    },
-    "particular_segundo": {
-      "normal": 1224.0,
-      "especial": 1224.0
-    },
-    "partconv": {
       "normal": 1377.0,
       "especial": 1377.0
     },
-    "partconv_segundo": {
+    "particular_segundo": {
       "normal": 1101.6,
       "especial": 1101.6
+    },
+    "partconv": {
+      "normal": 1239.3,
+      "especial": 1239.3
+    },
+    "partconv_segundo": {
+      "normal": 991.44,
+      "especial": 991.44
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem, honorário médico e materiais e medicamentos pertinentes ao contraste. EXCLUSO: Materiais e medicamentos de anestesia e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento.",
-    "codeTuss": [
-      "41101510",
-      "41101600",
-      "41101570",
-      "41101499",
-      "41101332",
-      "41101340",
-      "41101324",
-      "41101618",
-      "41101502",
-      "41101545",
-      "41101529",
-      "41101537",
-      "41101553",
-      "41101588",
-      "41101561",
-      "41101626",
-      "41101596"
-    ]
+    "codeTuss": null
   },
   "rm_avc": {
     "code": "89101229",
     "name": "RM - Pacote AVC (crânio + angio arterial crânio + angio cervical)",
     "category": "rmtc",
     "particular": {
-      "normal": 2475.0,
-      "especial": 2475.0
+      "normal": 2228.0,
+      "especial": 2228.0
     },
     "particular_segundo": {
-      "normal": 1980.0,
-      "especial": 1980.0
+      "normal": 1782.4,
+      "especial": 1782.4
     },
     "partconv": {
-      "normal": 2227.5,
-      "especial": 2227.5
+      "normal": 2005.2,
+      "especial": 2005.2
     },
     "partconv_segundo": {
-      "normal": 1782.0,
-      "especial": 1782.0
+      "normal": 1604.16,
+      "especial": 1604.16
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem, honorário médico e materiais e medicamentos pertinentes ao contraste. EXCLUSO: Materiais e medicamentos de anestesia e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento.",
-    "codeTuss": [
-      "41101537"
-    ]
+    "codeTuss": "41101537"
   },
   "rm_hidro": {
     "code": "888000168",
     "name": "RM - Hidro-RM (Colangio, Uro, Mielo, Sialo)",
     "category": "rmtc",
     "particular": {
-      "normal": 2085.0,
-      "especial": 2085.0
+      "normal": 1056.0,
+      "especial": 1056.0
     },
     "particular_segundo": {
-      "normal": 1668.0,
-      "especial": 1668.0
+      "normal": 844.8,
+      "especial": 844.8
     },
     "partconv": {
-      "normal": 1876.5,
-      "especial": 1876.5
+      "normal": 950.4,
+      "especial": 950.4
     },
     "partconv_segundo": {
-      "normal": 1501.2,
-      "especial": 1501.2
+      "normal": 760.32,
+      "especial": 760.32
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "PACOTE EXCLUSIVO PARA O REGIME DE ATENDIMENTO INTERNADO. INCLUI: Honorário médico, materiais, medicamentos, serviços de enfermagem, taxa de sala e contraste. EXCLUSO: Diárias, OPME, medicamentos especiais e de uso contínuo e pessoal do paciente, honorários médicos não pertinentes ao procedimento e itens não mencionados nas inclusões. Atenção: quando necessário contraste em mais de um procedimento, cobrar o procedimento de maior valor como pacote e os demais como conta aberta.",
-    "codeTuss": [
-      "41101359"
-    ]
+    "codeTuss": "41101359"
   },
   "sonoendoscopia": {
     "code": "88000630",
     "name": "PACOTE SONOENDOSCOPIA",
     "category": "endocolono",
     "particular": {
-      "normal": 1262.81,
-      "especial": 1262.81
+      "normal": 1262.805984,
+      "especial": 1262.805984
     },
     "particular_segundo": {
-      "normal": 1010.25,
-      "especial": 1010.25
+      "normal": 1010.24,
+      "especial": 1010.24
     },
     "partconv": {
       "normal": 1136.53,
@@ -384,17 +257,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUI: Equipamentos; gasoterapia; material comum; medicamentos; taxa de sala; taxas de serviço; honorário médico e anestesista. EXCLUI: Biópsia; materiais especiais; procedimentos realizados no centro cirúrgico; sangue e/ou hemoderivados.",
-    "codeTuss": [
-      "88000630"
-    ]
+    "codeTuss": "23202764"
   },
   "eda_hpylori": {
     "code": "88800089",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA COM OU SEM PESQUISA DE H. PYLORI",
     "category": "endocolono",
     "particular": {
-      "normal": 2159.77,
-      "especial": 2159.77
+      "normal": 2159.7696,
+      "especial": 2159.7696
     },
     "particular_segundo": {
       "normal": 1727.82,
@@ -412,18 +283,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 pinça de biópsia.",
-    "codeTuss": [
-      "40201120",
-      "40202615"
-    ]
+    "codeTuss": "40202615 ou 40201120"
   },
   "eda_biopsia": {
     "code": "88800090",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + BIOPSIA",
     "category": "endocolono",
     "particular": {
-      "normal": 2421.37,
-      "especial": 2421.37
+      "normal": 2421.3696,
+      "especial": 2421.3696
     },
     "particular_segundo": {
       "normal": 1937.1,
@@ -441,17 +309,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico. OPME INCLUSO: 1 pinça de biópsia.",
-    "codeTuss": [
-      "40202615"
-    ]
+    "codeTuss": "40202615"
   },
   "eda_multiplas_biopsias": {
     "code": "88800091",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + MÚLTIPLAS BIÓPSIAS",
     "category": "endocolono",
     "particular": {
-      "normal": 2964.45,
-      "especial": 2964.45
+      "normal": 2964.4512,
+      "especial": 2964.4512
     },
     "particular_segundo": {
       "normal": 2371.56,
@@ -469,17 +335,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico com múltiplas biópsias (até 5 fragmentos da mesma região). OPME INCLUSO: 1 pinça de biópsia.",
-    "codeTuss": [
-      "40202615"
-    ]
+    "codeTuss": "40202615"
   },
   "ecoendoscopia_sem_puncao": {
     "code": "88800094",
     "name": "PACOTE ECOENDOSCOPIA ALTA OU BAIXA SEM PUNÇÃO",
     "category": "endocolono",
     "particular": {
-      "normal": 3090.02,
-      "especial": 3090.02
+      "normal": 3090.0192,
+      "especial": 3090.0192
     },
     "particular_segundo": {
       "normal": 2472.02,
@@ -497,25 +361,23 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões.",
-    "codeTuss": [
-      "40201104"
-    ]
+    "codeTuss": "40201104"
   },
   "sonda_nasoenteral": {
     "code": "88800109",
     "name": "PACOTE ENDOSCOPIA + PASSAGEM DE SONDA NASOENTERAL",
     "category": "endocolono",
     "particular": {
-      "normal": 3200.94,
-      "especial": 3200.94
+      "normal": 3200.9376,
+      "especial": 3200.9376
     },
     "particular_segundo": {
       "normal": 2560.75,
       "especial": 2560.75
     },
     "partconv": {
-      "normal": 2880.85,
-      "especial": 2880.85
+      "normal": 2880.84,
+      "especial": 2880.84
     },
     "partconv_segundo": {
       "normal": 2304.68,
@@ -525,37 +387,33 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 pinça de biópsia e 1 sonda para alimentação enteral.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "corpo_estranho": {
     "code": "88800100",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + RETIRADA DE CORPO ESTRANHO",
     "category": "endocolono",
     "particular": {
-      "normal": 4096.66,
-      "especial": 4096.66
+      "normal": 4096.656,
+      "especial": 4096.656
     },
     "particular_segundo": {
-      "normal": 3277.33,
-      "especial": 3277.33
+      "normal": 3277.32,
+      "especial": 3277.32
     },
     "partconv": {
       "normal": 3686.99,
       "especial": 3686.99
     },
     "partconv_segundo": {
-      "normal": 2949.6,
-      "especial": 2949.6
+      "normal": 2949.59,
+      "especial": 2949.59
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 pinça de corpo estranho (dente de rato) ou 1 pinça Roth Net.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "balao_intragastrico_retirada": {
     "code": "40202771",
@@ -581,17 +439,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Até 6 horas de Day Clinic, 1 hora de centro cirúrgico, anestesia geral, taxas diversas, materiais e medicamentos comuns ao procedimento e anestesia, equipamentos e assistência de enfermagem. OPME: 1 kit de retirada do balão intragástrico. EXCLUSÕES: Diárias e tempo de sala excedentes; SADT; exames laboratoriais; honorários médicos; OPMEs não descritos ou excedentes; anatomia patológica; sangue e hemoderivados; materiais e medicamentos não relacionados; intercorrências e complicações.",
-    "codeTuss": [
-      "40202771"
-    ]
+    "codeTuss": "40202771"
   },
   "polipectomia": {
     "code": "88800092",
     "name": "PACOTE ENDOSCOPIA + H. PYLORI + BIÓPSIA + POLIPECTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 5052.02,
-      "especial": 5052.02
+      "normal": 5052.0192,
+      "especial": 5052.0192
     },
     "particular_segundo": {
       "normal": 4041.62,
@@ -609,18 +465,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico. OPME INCLUSO: 1 pinça de biópsia e 1 alça de polipectomia.",
-    "codeTuss": [
-      "40202615",
-      "40202038"
-    ]
+    "codeTuss": "40202038 ou 40202615"
   },
   "argonio": {
     "code": "88800103",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + ARGÔNIO",
     "category": "endocolono",
     "particular": {
-      "normal": 6213.52,
-      "especial": 6213.52
+      "normal": 6213.5232,
+      "especial": 6213.5232
     },
     "particular_segundo": {
       "normal": 4970.82,
@@ -631,24 +484,22 @@
       "especial": 5592.17
     },
     "partconv_segundo": {
-      "normal": 4473.73,
-      "especial": 4473.73
+      "normal": 4473.74,
+      "especial": 4473.74
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 cateter de argônio.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "dilatacao_sonda": {
     "code": "88800105",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + DILATAÇÃO COM SONDA",
     "category": "endocolono",
     "particular": {
-      "normal": 6532.68,
-      "especial": 6532.68
+      "normal": 6532.6752,
+      "especial": 6532.6752
     },
     "particular_segundo": {
       "normal": 5226.14,
@@ -666,17 +517,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 fio guia de Savary.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "dilatacao_balao": {
     "code": "88800104",
     "name": "PACOTE ENDOSCOPIA DIGESTIVA ALTA + DILATAÇÃO COM BALÃO",
     "category": "endocolono",
     "particular": {
-      "normal": 6713.7,
-      "especial": 6713.7
+      "normal": 6713.7024,
+      "especial": 6713.7024
     },
     "particular_segundo": {
       "normal": 5370.96,
@@ -687,28 +536,26 @@
       "especial": 6042.33
     },
     "partconv_segundo": {
-      "normal": 4833.86,
-      "especial": 4833.86
+      "normal": 4833.87,
+      "especial": 4833.87
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 balão CRE ou 1 balão Acalásia.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "gastrostomia": {
     "code": "88800110",
     "name": "PACOTE ENDOSCOPIA + GASTROSTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 7657.56,
-      "especial": 7657.56
+      "normal": 7657.5552,
+      "especial": 7657.5552
     },
     "particular_segundo": {
-      "normal": 6126.05,
-      "especial": 6126.05
+      "normal": 6126.04,
+      "especial": 6126.04
     },
     "partconv": {
       "normal": 6891.8,
@@ -729,8 +576,8 @@
     "name": "PACOTE ECOENDOSCOPIA ALTA OU BAIXA COM PUNÇÃO",
     "category": "endocolono",
     "particular": {
-      "normal": 7962.06,
-      "especial": 7962.06
+      "normal": 7962.0576,
+      "especial": 7962.0576
     },
     "particular_segundo": {
       "normal": 6369.65,
@@ -748,17 +595,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico. OPME INCLUSO: FNA – agulha Expect Slimline ou FNB – dispositivo Acquire.",
-    "codeTuss": [
-      "40202240"
-    ]
+    "codeTuss": "40202240"
   },
   "hemostasia_mecanica": {
     "code": "88800102",
     "name": "PACOTE ENDOSCOPIA + HEMOSTASIA MECÂNICA",
     "category": "endocolono",
     "particular": {
-      "normal": 8122.16,
-      "especial": 8122.16
+      "normal": 8122.1568,
+      "especial": 8122.1568
     },
     "particular_segundo": {
       "normal": 6497.73,
@@ -769,53 +614,48 @@
       "especial": 7309.94
     },
     "partconv_segundo": {
-      "normal": 5847.96,
-      "especial": 5847.96
+      "normal": 5847.95,
+      "especial": 5847.95
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 hemostasia (40202291). OPME INCLUSO: 1 kit de ligadura elástica, 1 cateter injetor e 3 clips.",
-    "codeTuss": [
-      "40201120"
-    ]
+    "codeTuss": "40201120"
   },
   "mucosectomia": {
     "code": "88800093",
     "name": "PACOTE ENDOSCOPIA + H. PYLORI + BIÓPSIA + MUCOSECTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 8550.13,
-      "especial": 8550.13
+      "normal": 8550.1344,
+      "especial": 8550.1344
     },
     "particular_segundo": {
-      "normal": 6840.1,
-      "especial": 6840.1
+      "normal": 6840.11,
+      "especial": 6840.11
     },
     "partconv": {
       "normal": 7695.12,
       "especial": 7695.12
     },
     "partconv_segundo": {
-      "normal": 6156.09,
-      "especial": 6156.09
+      "normal": 6156.1,
+      "especial": 6156.1
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico e 1 mucosectomia (40202470). OPME INCLUSO: 1 cateter injetor, 3 clips e 1 alça de polipectomia.",
-    "codeTuss": [
-      "40202615",
-      "40201120"
-    ]
+    "codeTuss": "40201120 ou 40202615"
   },
   "colonoscopia_sem_biopsia": {
     "code": "88800096",
     "name": "PACOTE COLONOSCOPIA OU RETOSSIGMOIDOSCOPIA FLEXÍVEL",
     "category": "endocolono",
     "particular": {
-      "normal": 2585.65,
-      "especial": 2585.65
+      "normal": 2585.6544,
+      "especial": 2585.6544
     },
     "particular_segundo": {
       "normal": 2068.52,
@@ -833,46 +673,41 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões.",
-    "codeTuss": [
-      "40201082",
-      "40201171"
-    ]
+    "codeTuss": "40201082 ou 40201171"
   },
   "colonoscopia_biopsia": {
     "code": "88800097",
     "name": "PACOTE COLONOSCOPIA + BIÓPSIA",
     "category": "endocolono",
     "particular": {
-      "normal": 3216.63,
-      "especial": 3216.63
+      "normal": 3216.6336,
+      "especial": 3216.6336
     },
     "particular_segundo": {
-      "normal": 2573.3,
-      "especial": 2573.3
+      "normal": 2573.31,
+      "especial": 2573.31
     },
     "partconv": {
       "normal": 2894.97,
       "especial": 2894.97
     },
     "partconv_segundo": {
-      "normal": 2315.97,
-      "especial": 2315.97
+      "normal": 2315.98,
+      "especial": 2315.98
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico. OPME INCLUSO: 1 pinça de biópsia.",
-    "codeTuss": [
-      "40202666"
-    ]
+    "codeTuss": "40202666"
   },
   "colonoscopia_multiplas_biopsias": {
     "code": "88800098",
     "name": "PACOTE COLONOSCOPIA + MÚLTIPLAS BIÓPSIAS",
     "category": "endocolono",
     "particular": {
-      "normal": 3758.67,
-      "especial": 3758.67
+      "normal": 3758.6688,
+      "especial": 3758.6688
     },
     "particular_segundo": {
       "normal": 3006.94,
@@ -890,17 +725,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico com múltiplas biópsias (até 5 fragmentos da mesma região). OPME INCLUSO: 1 pinça de biópsia.",
-    "codeTuss": [
-      "40202666"
-    ]
+    "codeTuss": "40202666"
   },
   "colonoscopia_dilatacao_balao": {
     "code": "88800108",
     "name": "PACOTE COLONOSCOPIA + DILATAÇÃO COM BALÃO",
     "category": "endocolono",
     "particular": {
-      "normal": 4943.19,
-      "especial": 4943.19
+      "normal": 4943.1936,
+      "especial": 4943.1936
     },
     "particular_segundo": {
       "normal": 3954.55,
@@ -918,17 +751,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 balão CRE.",
-    "codeTuss": [
-      "40202674"
-    ]
+    "codeTuss": "40202674"
   },
   "colonoscopia_polipectomia": {
     "code": "88800099",
     "name": "PACOTE COLONOSCOPIA + BIÓPSIA + POLIPECTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 6446.87,
-      "especial": 6446.87
+      "normal": 6446.8704,
+      "especial": 6446.8704
     },
     "particular_segundo": {
       "normal": 5157.5,
@@ -946,17 +777,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico. OPME INCLUSO: 1 pinça de biópsia e 1 alça de polipectomia.",
-    "codeTuss": [
-      "40202666"
-    ]
+    "codeTuss": "40202666"
   },
   "colonoscopia_argonio": {
     "code": "88800107",
     "name": "PACOTE COLONOSCOPIA + APLICAÇÃO DE ARGÔNIO",
     "category": "endocolono",
     "particular": {
-      "normal": 6706.38,
-      "especial": 6706.38
+      "normal": 6706.3776,
+      "especial": 6706.3776
     },
     "particular_segundo": {
       "normal": 5365.1,
@@ -974,17 +803,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos; anátomo patológico; órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. OPME INCLUSO: 1 cateter de argônio.",
-    "codeTuss": [
-      "40201082"
-    ]
+    "codeTuss": "40201082"
   },
   "colonoscopia_mucosectomia": {
     "code": "88800113",
     "name": "PACOTE COLONOSCOPIA + BIÓPSIA + MUCOSECTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 7793.59,
-      "especial": 7793.59
+      "normal": 7793.5872,
+      "especial": 7793.5872
     },
     "particular_segundo": {
       "normal": 6234.87,
@@ -1002,17 +829,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico e 1 mucosectomia (40202470). OPME INCLUSO: 1 alça de polipectomia, 1 pinça de biópsia, 1 cateter injetor e 3 clips.",
-    "codeTuss": [
-      "40202712"
-    ]
+    "codeTuss": "40202712"
   },
   "colonoscopia_hemostasia": {
     "code": "88800106",
     "name": "PACOTE COLONOSCOPIA + HEMOSTASIA DE CÓLON",
     "category": "endocolono",
     "particular": {
-      "normal": 8577.34,
-      "especial": 8577.34
+      "normal": 8577.3408,
+      "especial": 8577.3408
     },
     "particular_segundo": {
       "normal": 6861.87,
@@ -1023,32 +848,30 @@
       "especial": 7719.61
     },
     "partconv_segundo": {
-      "normal": 6175.68,
-      "especial": 6175.68
+      "normal": 6175.69,
+      "especial": 6175.69
     },
     "hasEspecial": false,
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSO: Honorários médicos (endoscopista e anestesista), taxas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e à sedação, gasoterapia e assistência de enfermagem. EXCLUSO: Diárias, sala cirúrgica, intercorrências e complicações, exames adicionais, hemostasia, polipectomia, mucosectomia, anátomo patológico, sangue e hemoderivados, materiais especiais/OPME não descritos e medicamentos especiais ou de uso contínuo e pessoal do paciente. INCLUI TAMBÉM: cateter injetor, 3 clips e 1 hemostasia.",
-    "codeTuss": [
-      "40201082"
-    ]
+    "codeTuss": "40201082"
   },
   "colonoscopia_completa": {
     "code": "88800112",
     "name": "PACOTE COLONOSCOPIA + BIÓPSIA + POLIPECTOMIA + HEMOSTASIA",
     "category": "endocolono",
     "particular": {
-      "normal": 12567.26,
-      "especial": 12567.26
+      "normal": 12567.264,
+      "especial": 12567.264
     },
     "particular_segundo": {
       "normal": 10053.81,
       "especial": 10053.81
     },
     "partconv": {
-      "normal": 11310.53,
-      "especial": 11310.53
+      "normal": 11310.54,
+      "especial": 11310.54
     },
     "partconv_segundo": {
       "normal": 9048.43,
@@ -1058,17 +881,15 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Taxas diversas e equipamentos pertinentes, materiais e medicamentos comuns ao procedimento e sedação (verificar limitadores e exceções), medicamentos inerentes ao preparo para realização do exame quando regime internado, gasoterapia, assistência de enfermagem e honorários médicos (endoscopista e anestesista). EXCLUSÕES: Diárias; sala cirúrgica; intercorrências e complicações; exames laboratoriais; tomografias; ressonâncias; radiodiagnósticos; endoscópicos;  órteses, próteses e materiais especiais; medicamentos para patologias não relacionadas ao procedimento principal, quimioterápicos, medicamentos importados e/ou de uso contínuo e pessoal do paciente, antifúngicos e imunomoduladores; sangue e hemoderivados; honorários médicos não descritos nas inclusões; serviço de apoio nutricional, dietas e suplementos alimentares; terapias; despesas com acompanhante e telefonia; remoções; e outros itens não descritos nas inclusões. INCLUI: 1 anatomopatológico, 1 polipectomia e 1 hemostasia (40202313). OPME INCLUSO: 1 alça de polipectomia, 1 pinça de biópsia, 1 cateter injetor e 3 clips.",
-    "codeTuss": [
-      "40202666"
-    ]
+    "codeTuss": "40202666"
   },
   "colonoscopia_mucosectomia_complexa": {
     "code": "88800111",
     "name": "PACOTE COLONOSCOPIA + BIÓPSIA + POLIPECTOMIA + MUCOSECTOMIA",
     "category": "endocolono",
     "particular": {
-      "normal": 12674.0,
-      "especial": 12674.0
+      "normal": 12673.9968,
+      "especial": 12673.9968
     },
     "particular_segundo": {
       "normal": 10139.2,
@@ -1112,9 +933,7 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Até 1 hora de sala de endoscopia, anestesia/sedação, taxas diversas, materiais e medicamentos comuns ao procedimento e anestesia, equipamentos e assistência de enfermagem. OPME: 1 balão intragástrico (6 meses). EXCLUSÕES: Diárias; tempo de sala excedente; SADT; exames laboratoriais; honorários médicos; centro cirúrgico; OPMEs não descritos ou excedentes; anatomia patológica; sangue e hemoderivados; materiais e medicamentos não relacionados; intercorrências e complicações.",
-    "codeTuss": [
-      "40202658"
-    ]
+    "codeTuss": "40202658"
   },
   "us_mamotomia": {
     "code": "88000285",
@@ -1140,9 +959,7 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "Realizado somente na unidade Pompeia. INCLUSÕES: Até 30 minutos de sala, materiais e medicamentos comuns pertinentes ao procedimento, honorários médicos, taxas diversas e radiografia ou ultrassonografia para realização do procedimento. OPME: agulha com cânula cortante Standard 12G 12CM (ATEC1212-20) OU agulha com cânula cortante Standard 9G 20CM (ATEC0912-20) OU agulha com cânula cortante Petite 9G 12CM (ATEC0912-12). EXCLUSÕES: Diárias; intercorrências e complicações; Senomarker Clip Mamário (SMEC10GSS); materiais especiais, como órteses, próteses e materiais consignados não descritos; medicamentos especiais e de uso contínuo e pessoal do paciente; procedimentos realizados em centro cirúrgico e itens não mencionados nas inclusões.",
-    "codeTuss": [
-      "40808289"
-    ]
+    "codeTuss": "40808289"
   },
   "us_endometriose": {
     "code": "40901181",
@@ -1168,9 +985,7 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "Realizado somente na unidade Pompeia. INCLUSÕES: Até 20 minutos de sala, materiais e medicamentos pertinentes ao procedimento e honorário médico. ITENS EXCLUSOS: Exames realizados no centro cirúrgico, diárias, pré-operatórios, intercorrências e complicações, medicamentos e materiais (órteses, próteses e especiais) não descritos nas inclusões, sangue e hemoderivados, anatomia patológica e outros itens não descritos na inclusão.",
-    "codeTuss": [
-      "40901181"
-    ]
+    "codeTuss": "40901181"
   },
   "us_intestinal": {
     "code": "99900010",
@@ -1196,9 +1011,7 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "Realizado somente na unidade Pompeia. INCLUSÃO: Honorário médico, taxas de sala e equipamentos, materiais e medicamentos pertinentes ao procedimento e assistência de enfermagem. EXCLUSÃO: Diárias (inclusive UTI), intercorrências e complicações, materiais especiais, como órteses, próteses e materiais consignados (OPME), medicamentos especiais e de uso contínuo e pessoal do paciente, consultas ou avaliações e itens não mencionados nas inclusões.",
-    "codeTuss": [
-      "99900010"
-    ]
+    "codeTuss": "99900010"
   },
   "us_doppler_peniano": {
     "code": "89101232",
@@ -1224,9 +1037,7 @@
     "onlyEspecial": false,
     "incluiContraste": false,
     "composicao": "INCLUSÕES: Honorários médicos, taxas, materiais pertinentes e assistência de enfermagem. EXCLUSÕES: Internação, materiais e medicamentos não relacionados, SADT e itens não mencionados nas inclusões.",
-    "codeTuss": [
-      "40901440"
-    ]
+    "codeTuss": "40901440"
   },
   "us_doppler_mi": {
     "code": null,
